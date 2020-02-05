@@ -1,0 +1,23 @@
+{
+  "code": "xable.displays.bugs.small.reaction",
+  "recipeStep": "carve",
+  "reagents": [
+    {
+	  "kind": "staxel.item.Placer",
+      "tile": "staxel.tileObject.museum.SmallBugDisplay",
+	  "quantity": 1
+    }
+  ],
+  "results": [
+    {
+	  "kind": "staxel.item.Placer",
+      "tile": "xable.displays.bugs.small",
+	  "quantity": 1
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.crafting.Carve",
+  "processDrawable": "lumber"
+}

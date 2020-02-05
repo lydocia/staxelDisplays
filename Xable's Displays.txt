@@ -1,0 +1,35 @@
+[b]Description[/b]
+
+A collection of food display cases, wall-mounted display cases and other ways to display your favourite items.
+
+[b]Wall-mounted Museum Displays[/b]
+– Small Wall Fish Display
+– Large Wall Fish Display
+– Small Wall Bug Display
+
+[b]Wall-mounted Miscellaneous Displays (for all items)[/b]
+– Large Wall Shingle Display
+– Small Wall Display
+– Large Wall Display
+– Small Wall Plaque Display
+– Large Wall Plaque Display
+
+[b]Food Displays[/b]
+– Pie Stand (for all food items)
+
+[b]Collection Displays[/b]
+– Seashell Collection Display
+– Gold Crop Collection Display (coming soon!)
+– Trash Collection Display (coming soon!)
+
+[b]Miscellaneous Displays[/b]
+– Museum Display (for all categories)
+– Smaller Display (for all categories)
+
+[b]Recipes[/b]
+To turn a Bug or Fish Display into a wall-mounted version, simply put the display on the carving table and carve it!
+
+Read the full documentation [url=https://www.lydocia.com/mods/staxel-mods/xables-displays/]here[/url]. 
+
+[b]Links[/b]
+[url=https://www.lydocia.com]website[/url] | [url=https://discord.gg/YPhAFKN]Discord[/url] | [url=https://www.patreon.com/lydocia]Patreon[/url]

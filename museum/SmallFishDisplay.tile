@@ -1,0 +1,27 @@
+{
+    "dockDefinition": "xable.displays.fish.dock",
+    "collision": true,
+    "__inherits": "mods/Xable's Displays/configs/wallMount.config",
+    "code": "xable.displays.fish.small",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "display",
+        "museum",
+        "smallFishDisplay",
+        "small"
+    ],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    }},
+    "voxels": "mods/Xable's Displays/museum/SmallFishDisplay.qb",
+    "pricing": {
+        "buyable": false,
+        "catalogueUnlockedFromStart": false,
+        "sellPrice": 10,
+        "value": 800
+    },
+    "searchable": true
+}

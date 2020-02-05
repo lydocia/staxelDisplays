@@ -1,0 +1,41 @@
+language.code=en-GB
+language=English
+
+xable.displays.collection.gold.name=Gold Crop Display
+xable.displays.collection.gold.description=A display to exhibit your golden crops.
+
+xable.displays.collection.seashell.name=Seashell Display
+xable.displays.collection.seashell.description=A sandbox to display your seashell collection.
+
+xable.displays.piestand.name=Pie Stand
+xable.displays.piestand.description=A pie stand that has been repurposed to display all sorts of yummy food.
+
+xable.displays.misc.museum.name=Museum Display
+xable.displays.misc.museum.description=A regularl museum display, with no particular interest in fish or bugs.
+
+xable.displays.misc.smaller.name=Smaller Museum Display
+xable.displays.misc.smaller.description=A smaller table-top museum display.
+
+xable.displays.fish.large.name=Large Wall Fish Display
+xable.displays.fish.large.description=A large display mounted to the wall that can show off any fish.
+
+xable.displays.bugs.small.name=Small Wall Bug Display
+xable.displays.bugs.small.description=A small display mounted to the wall that can show off any bugs.
+
+xable.displays.fish.small.name=Small Wall Fish Display
+xable.displays.fish.small.description=A small display mounted to the wall that can show off any fish.
+
+xable.displays.wall.large.name=Large Wall Display
+xable.displays.wall.large.description=A large display mounted to the wall that can show off any item.
+
+xable.displays.plaque.large.name=Large Wall Plaque Display
+xable.displays.plaque.large.description=A large plaque mounted to the wall that can show off any item.
+
+xable.displays.plaque.small.name=Small Wall Plaque Display
+xable.displays.plaque.small.description=A small plaque mounted to the wall that can show off any item.
+
+xable.displays.shingle.large.name=Large Wall Shingle Display
+xable.displays.shingle.large.description=A shingle mounted to the wall that can show off any item.
+
+xable.displays.wall.small.name=Small Wall Display
+xable.displays.wall.small.description=A small display mounted to the wall that can show off any item.

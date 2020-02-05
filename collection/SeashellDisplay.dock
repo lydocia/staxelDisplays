@@ -1,0 +1,224 @@
+{
+  "code": "xable.displays.collection.seashell.dock",
+  "allowStacksForAllSites": false,
+  "sites": [
+    {
+      "siteName": "shell1",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "location": {
+        "x": -0.5,
+        "y": 1.1875,
+        "z": -0.5
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "shell2",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "location": {
+        "x": -0.5,
+        "y": 1.1875,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "shell3",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "location": {
+        "x": 0.5,
+        "y": 1.1875,
+        "z": -0.5
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "shell4",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "location": {
+        "x": 0.5,
+        "y": 1.1875,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "shell5",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "location": {
+        "x": 0.0,
+        "y": 1.1875,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "shell6",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "location": {
+        "x": 0.0,
+        "y": 1.1875,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "validDockables": [
+    {
+      "code": "staxel.tileObject.gatherable.PawShell",
+	  "category" : "shell",
+	  "sites": ["shell1"],
+	  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    },
+    {
+      "code": "staxel.tileObject.gatherable.PearlShell",
+	  "category" : "shell",
+	  "sites": ["shell2"],
+	  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    },
+    {
+      "code": "staxel.tileObject.gatherable.RedCoral",
+	  "category" : "shell",
+	  "sites": ["shell3"],
+	  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    },
+    {
+      "code": "staxel.tileObject.gatherable.Starfish",
+	  "category" : "shell",
+	  "sites": ["shell4"],
+	  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    },
+    {
+      "code": "staxel.tileObject.gatherable.SwirlyShell",
+	  "category" : "shell",
+	  "sites": ["shell5"],
+	  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    },
+    {
+	  "code": "staxel.tileObject.gatherable.HermitShell",
+	  "category" : "shell",
+	  "sites": ["shell6"],
+	  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

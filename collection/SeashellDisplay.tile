@@ -1,0 +1,20 @@
+{
+    "attachToBelow": true,
+    "dockDefinition": "xable.displays.collection.seashell.dock",
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "xable.displays.collection.seashell",
+    "categories": ["display"],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+    }},
+    "voxels": "mods/Xable's Displays/collection/SeashellDisplay.qb",
+    "pricing": {
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 800
+    },
+    "searchable": true
+}

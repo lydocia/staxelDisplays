@@ -1,0 +1,25 @@
+{
+    "attachToBelow": true,
+    "dockDefinition": "staxel.docks.MuseumDisplay",
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "xable.displays.misc.museum",
+    "categories": [
+        "display",
+        "museum",
+        "smallBugDisplay",
+        "small"
+    ],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 1,
+        "y": 2,
+        "z": 1
+    }},
+    "voxels": "mods/Xable's Displays/misc/MuseumDisplay.qb",
+    "pricing": {
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 800
+    },
+    "searchable": true
+}

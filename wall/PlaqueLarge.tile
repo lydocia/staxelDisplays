@@ -1,0 +1,27 @@
+{
+    "dockDefinition": "xable.displays.wall.dock",
+    "collision": true,
+    "__inherits": "mods/Xable's Displays/configs/wallMount.config",
+    "code": "xable.displays.plaque.large",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "display",
+        "museum",
+        "smallFishDisplay",
+        "small"
+    ],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 2,
+        "y": 1,
+        "z": 1
+    }},
+    "voxels": "mods/Xable's Displays/wall/PlaqueLarge.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 1200
+    },
+    "searchable": true
+}

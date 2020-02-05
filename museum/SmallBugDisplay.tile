@@ -1,0 +1,27 @@
+{
+    "dockDefinition": "xable.displays.bugs.dock",
+    "collision": true,
+    "__inherits": "mods/Xable's Displays/configs/wallMount.config",
+    "code": "xable.displays.bugs.small",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "display",
+        "museum",
+        "smallBugDisplay",
+        "small"
+    ],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    }},
+    "voxels": "mods/Xable's Displays/museum/SmallBugDisplay.qb",
+    "pricing": {
+        "buyable": false,
+        "catalogueUnlockedFromStart": false,
+        "sellPrice": 10,
+        "value": 800
+    },
+    "searchable": true
+}

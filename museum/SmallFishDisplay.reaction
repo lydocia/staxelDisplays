@@ -1,0 +1,23 @@
+{
+  "code": "xable.displays.fish.small.reaction",
+  "recipeStep": "carve",
+  "reagents": [
+    {
+	  "kind": "staxel.item.Placer",
+      "tile": "staxel.tileObject.museum.SmallFishDisplay",
+	  "quantity": 1
+    }
+  ],
+  "results": [
+    {
+	  "kind": "staxel.item.Placer",
+      "tile": "xable.displays.fish.small",
+	  "quantity": 1
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.crafting.Carve",
+  "processDrawable": "lumber"
+}

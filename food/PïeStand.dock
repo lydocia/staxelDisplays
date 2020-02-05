@@ -1,0 +1,44 @@
+{
+	"code" : "xable.displays.piestand.dock",
+	"allowStacksForAllSites" : false,
+  "sites": [
+    {
+      "siteName": "piestand",
+      "compact": false,
+      "location": {
+        "x": 0.0,
+        "y": 0.5625,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "dimensionOverride" : {
+	    "x" : 2.0,
+		"y" : 2.0,
+		"z" : 2.0
+	  },
+      "allowStacks" : false,
+      "DockOneAtATime" : true,
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "food",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

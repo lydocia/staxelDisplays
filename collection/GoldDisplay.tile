@@ -1,0 +1,21 @@
+{
+    "attachToBelow": true,
+    "dockDefinition": "xable.displays.collection.gold.dock",
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "xable.displays.collection.gold",
+    "categories": ["display"],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 3,
+        "y": 2,
+        "z": 2
+    }},
+    "voxels": "mods/Xable's Displays/collection/GoldDisplay.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 250,
+        "value": 2500
+    },
+    "searchable": true
+}
